@@ -1,2 +1,2 @@
 # chiAPI
-Python API for chia
+Python API for the chia blockchain
